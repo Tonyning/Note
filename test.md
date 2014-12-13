@@ -47,17 +47,18 @@ Content Cell  | Content Cell
 |one-one|one-two|one-three|    
 |two-one|two-two|two-three|    
 |three-one|three-two|three-three|    
-
--    one    
--    two    
--    three    
-
-- [] one    
-- [] two    
-- [] three    
+- one
+- two
+- three
+- 
 1.one    
 2.two    
 3.three    
+
+- [ ] one    
+- [ ] two    
+- [ ] three    
+
 
 [google](http://www.google.com)    
 
