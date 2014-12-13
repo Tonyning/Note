@@ -52,18 +52,11 @@ Content Cell  | Content Cell
 -    two    
 -    three    
 
-- [ ] one    
-- [ ] two    
-- [ ] three    
-
-*     one    
-*    two    
-* three    
-
+- [] one    
+- [] two    
+- [] three    
 1.one    
-
 2.two    
-
 3.three    
 
 [google](http://www.google.com)    
